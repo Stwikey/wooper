@@ -13,7 +13,7 @@ I started to 3D model the case for the robot in blender. I have never used blend
 
 **Total time spent: 3h**
 
-# June 17th: Finished Wiring Diagram
+# June 18th: Finished Wiring Diagram
 
 I started to do the wiring diagram on KiCad since thats what I used for my hackpad and I thoguht it looked nice. I spent a lot of time trying to find the symbols for different components online but gave up around 2 hours in since I couldn't find most of the symbols for the components which I probably coulve figured that out sooner.
 
