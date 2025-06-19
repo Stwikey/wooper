@@ -19,7 +19,7 @@ I started to do the wiring diagram on KiCad since thats what I used for my hackp
 
 <img width="798" alt="Screenshot 2025-06-18 at 10 13 52 PM" src="https://github.com/user-attachments/assets/fe536c26-6ef3-49d8-834d-08d1fc5988a4" />
 
-I ended up using cirkit designer which was simpler and helped a lot with the visuals.
+I ended up using cirkit designer which was simpler and helped a lot with the visuals. I haven't used most of these components before so it was pretty time consuming researching how to wire up all the components and making sure that each component received enough voltage and current to function properly. 
 
 <img width="572" alt="Screenshot 2025-06-18 at 10 15 28 PM" src="https://github.com/user-attachments/assets/a7e40454-4b30-4b24-8ce5-6d26dc251abc" />
 
