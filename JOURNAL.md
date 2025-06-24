@@ -31,3 +31,13 @@ Some of the features include:
 - Switch that powers it on and off
 
 **Total time spent: 3h**
+
+# June 23th: Finished the 3D Model (Mostly)
+
+I finished modeling the body on blender but I still need to add wall thickness and add other mechanisms for the motors on the inside. I had issues importing the blender objects into fusion (the sizing wasn't correct) which I will figure out tomorrow and I still have to figure out a way to make the moving parts rotate without causing a lot of friction. For now the idea is to put a little gap between the parts so that they won't actually be touching.
+
+<img width="1424" alt="Screenshot 2025-06-23 at 11 13 48 PM" src="https://github.com/user-attachments/assets/12c8b6ce-c550-4498-9f62-19baf187e266" />
+<img width="1408" alt="Screenshot 2025-06-23 at 11 13 54 PM" src="https://github.com/user-attachments/assets/13456e8e-8c65-4398-ae50-8672f00f80ce" />
+
+
+**Total time spent: 2h**
