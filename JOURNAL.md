@@ -39,5 +39,15 @@ I finished modeling the body on blender but I still need to add wall thickness a
 <img width="1424" alt="Screenshot 2025-06-23 at 11 13 48 PM" src="https://github.com/user-attachments/assets/12c8b6ce-c550-4498-9f62-19baf187e266" />
 <img width="1408" alt="Screenshot 2025-06-23 at 11 13 54 PM" src="https://github.com/user-attachments/assets/13456e8e-8c65-4398-ae50-8672f00f80ce" />
 
+**Total time spent: 2h**
+
+# June 24th: Added Holes and Thickness to the 3D Model
+
+I added some holes to where the moving parts would be and learned how to bisect the model which allowed me to put the head into 2 pieces (so that I can work on the inside of the model when making the actual physical thing). I used a wall thickness of 2mm which hopefully should be okay. For the holes, at first I wanted to leave a gap so that there wouldn't be any friction in the moving parts but then I decided to have little to no gap since I was worried it might look weird with all the empty holes. I decided that if I wanted to make the holes bigger I would just sand the 3D print later. 
+
+<img width="1407" alt="Screenshot 2025-06-25 at 12 18 34 AM" src="https://github.com/user-attachments/assets/def7a30e-d86e-4e11-833b-76cc1b431d35" />
+<img width="598" alt="Screenshot 2025-06-25 at 12 18 48 AM" src="https://github.com/user-attachments/assets/d8b7b807-bbcc-48e5-9a4f-4ae033e9f7bc" />
 
 **Total time spent: 2h**
+
+
